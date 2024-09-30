@@ -1,0 +1,28 @@
+header{
+    background-image: url(coffee_image.png);
+    height: 768px;
+    width: 1368px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin: 0 1rem;
+}
+.clicker-script-regular {
+    font-family: "Clicker Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+#tugma{
+    padding: 0.5rem;
+    border-radius: 24px;
+    background-color: #F9C06A;
+}
+p{
+    color: white;
+}

@@ -1,0 +1,18 @@
+#Pa{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: block;
+}
+#P{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    display: block;
+}
+#p{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: block;
+}
